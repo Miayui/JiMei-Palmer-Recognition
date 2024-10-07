@@ -15,34 +15,18 @@
 说明详见/dataset/Palmprint/CASIA-Multi-Spectral-PalmprintV1/Database description.pdf
 # 初步架构代码（维护人：li）
 ## 数据集格式
-.
-├── train
-│   ├── person_1
-│   │   ├── 1.jpg
-│   │   └── 2.jpg
-│   ├── person_2
-│   │   ├── 1.jpg
-│   │   └── 2.jpg
-│   └── person_3
-│       ├── 1.jpg
-│       └── 2.jpg
-└── val
-    ├── person_4
-    │   ├── 1.jpg
-    │   └── 2.jpg
-    └── person_5
-        ├── 1.jpg
-        └── 2.jpg
+![image](https://github.com/user-attachments/assets/299b8413-b95a-4381-bace-473253cac3a4)
+
 
 ## 处理流程
 ### 图像预处理
-[x] 手掌定位
-[x] ROI提取
+- [x] 手掌定位
+- [x] ROI提取
 ## 特征提取
-[] 特征分类模型
-[] 建立掌纹特征库
+- [] 特征分类模型
+- [] 建立掌纹特征库
 ## 掌纹信息匹配
-
+- [] test
 ## 代码说明
 
 
