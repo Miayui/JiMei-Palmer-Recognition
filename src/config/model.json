@@ -1,0 +1,9 @@
+[
+    {
+        "extract_features_model_name":"",
+        "features_classifer_model_name":"",
+
+        "extract_features_model_path":"",
+        "features_classifer_model_path":""
+    }
+]
