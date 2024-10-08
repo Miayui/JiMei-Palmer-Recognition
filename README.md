@@ -28,7 +28,7 @@
 ## 掌纹信息匹配
 - [ ] test
 ## 代码说明
-
+https://github.com/Huterox/palm_recongnition/tree/master
 
 # 可参考资料
 ## 数据集
